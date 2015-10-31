@@ -1,0 +1,3 @@
+--debug-devtools-frontend 自chrome 35 就移去了
+新的办法参考https://developer.chrome.com/devtools/docs/contributing
+```"C:\Users\%username%\AppData\Local\Google\Chrome SxS\Application\chrome.exe" --remote-debugging-port=9222 --no-first-run --user-data-dir=C:\Users\%username%\chrome-dev-profile http://localhost:9222#http://localhost:8000/front_end/inspector.html```
